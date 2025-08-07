@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Chatbot de Messenger para SIP TERMO HOME con integración OpenAI GPT-3.5",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },

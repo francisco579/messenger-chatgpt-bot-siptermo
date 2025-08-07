@@ -1,0 +1,18 @@
+{
+  "name": "messenger-chatgpt-bot-siptermo",
+  "version": "1.0.0",
+  "description": "Bot para Facebook Messenger que responde con ChatGPT-3.5 integrado.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["messenger", "chatgpt", "openai", "bot", "railway"],
+  "author": "francisco579",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1"
+  }
+}

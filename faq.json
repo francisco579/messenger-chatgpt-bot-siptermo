@@ -1,0 +1,177 @@
+[
+  {
+    "id": "servicios",
+    "pregunta": "¿Qué servicios ofrecen?",
+    "respuesta": "Somos fabricantes de paneles SIP, ofrecemos gran variedada de paneles y lo relacionado con su montaje, también ofrecemos asesoría integral en tu proyecto , desde el motaje, hasta cálculos de transmitancia térmica. También tenemos kits de autoconstrucción con cortes CNC y venta en ferretería.",
+    "tags": [
+      "servicios",
+      "paneles",
+      "kits",
+      "cnc",
+      "ferretería"
+    ],
+    "url_referencia": "https://www.siptermo.cl"
+  },
+  {
+    "id": "paneles_cantidad",
+    "pregunta": "¿Cuántos paneles necesito para mi casa?",
+    "respuesta": "¿Tienes planos o un bosquejo con medidas, puede ser un plano a mano alzada, lo importante es que tenga las medidas  (largo/ancho, muros y aberturas)? Con eso podemos hacer los cálculos y  te orientamos con precisión.",
+    "tags": [
+      "paneles",
+      "cantidad",
+      "m2"
+    ],
+    "url_referencia": null
+  },
+  {
+    "id": "kits",
+    "pregunta": "¿Qué incluye un kit? En qué consiste el kit?",
+    "respuesta": "El kit incluye paneles SIP interiores y exteriores, la madera para las uniones , los pilares esquineros, tornillos, más las perforaciones de interruptores y enchufes, tuberias en coarugado libre de halógeno y sus respectivas cajas segun noma chilena de electricidad, así como también cortes según diseño. Podemos ajustar según tus medidas.",
+    "tags": [
+      "kit",
+      "autoconstrucción",
+      "casas prefabricadas",
+      "casas economicas",
+      "casas con paneles sip",
+      "casas modernas"
+    ],
+    "url_referencia": "https://www.siptermo.cl"
+  },
+  {
+    "id": "ferreteria",
+    "pregunta": "¿Venden materiales de construcción?",
+    "respuesta": "Sí, contamos con ferretería , precios especiales para constructores. Revisa o consulta aquí.",
+    "tags": [
+      "ferretería",
+      "materiales"
+    ],
+    "url_referencia": "https://www.siptermo.cl/ferreteria"
+  },
+  {
+    "id": "contacto",
+    "pregunta": "Quiero hablar con un ejecutivo",
+    "respuesta": "Perfecto, te derivo. Teléfono: +56 42 255 5939 o WhatsApp +56 9 7189 4766.",
+    "tags": [
+      "contacto",
+      "teléfono",
+      "whatsapp"
+    ],
+    "url_referencia": null
+  },
+  {
+    "id": "certificados",
+    "pregunta": "los paneles estan certificados",
+    "respuesta": "En Sip termo home solo trabajamos con material certificado, todos nuestros paneles cumplen con la normativa APA",
+    "tags": [
+      "certificación",
+      "calidad"
+    ],
+    "url_referencia": "https://www.siptermo.cl/servicios"
+  },
+  {
+    "id": "ventajas",
+    "pregunta": "cuales son las ventajas de construir en panel sip",
+    "respuesta": "Los paneles SIP (Structural Insulated Panel) ofrecen varias ventajas en la construcción, incluyendo rapidez en la edificación, alta eficiencia energética, resistencia estructural, y durabilidad. Además, son una opción más sostenible y pueden reducir los costos de mano de obra y energía. Los paneles SIP son prefabricados y se ensamblan en el sitio, lo que reduce significativamente el tiempo de construcción en comparación con los métodos tradicionales. Los paneles SIP son prefabricados y se ensamblan en el sitio, lo que reduce significativamente el tiempo de construcción en comparación con los métodos tradicionales. Los paneles SIP ofrecen un excelente aislamiento térmico, lo que ayuda a reducir la pérdida de calor en invierno y el calor en verano, resultando en menores costos de energía. La facilidad de instalación de los paneles SIP puede disminuir la cantidad de mano de obra necesaria en comparación con la construcción tradicional. Los paneles SIP también ofrecen un buen aislamiento acústico, reduciendo la transmisión de ruido entre espacios.",
+    "tags": [
+      "ventajas",
+      "deventajas",
+      "rapidez",
+      "eficiencia",
+      "costos"
+    ],
+    "url_referencia": "https://www.siptermo.cl/servicios"
+  },
+  {
+    "id": "8633664d",
+    "pregunta": "Viene también con el techo?",
+    "respuesta": "el kit inicla solo trae los muros exteriores, muros interiores, y las intslalaciones de tuberias para la electricidad, para valorizar un techo debes contactarte con un ejecutivo",
+    "tags": [],
+    "url_referencia": null
+  },
+  {
+    "id": "kit,  kits",
+    "pregunta": "valor despacho?",
+    "respuesta": "dentro de un radio de 40 kilometros el despachoo es gratis, despúes de esa distancia debes cotizar el traslado a obra",
+    "tags": [],
+    "url_referencia": null
+  },
+  {
+    "id": "kits",
+    "pregunta": "Hola, viene con cercha y techo?",
+    "respuesta": "existen modalidad con entrega de cerchas, cubiertas  y revestiminetos, puedes contactarte con un ejecutivo",
+    "tags": [],
+    "url_referencia": null
+  },
+  {
+    "id": "maestros",
+    "pregunta": "hacen instalación o montaje de los paneles.",
+    "respuesta": "si, hacemos montaje, debes consutar disponibilidad de equipo detrabajo y factibilidada de traslado con un ejecutivo de sip termo home",
+    "tags": [
+      "montaje",
+      "instalción",
+      "maestros"
+    ],
+    "url_referencia": null
+  },
+  {
+    "id": "cnc, corte",
+    "pregunta": "dan los paneles cortados?",
+    "respuesta": "la empresa realiza cortes cnc, pero debes consultar si es factible aplicar esa técnica a tu proyecto",
+    "tags": [
+      "cnc",
+      "corte",
+      "dimensionado"
+    ],
+    "url_referencia": null
+  },
+  {
+    "id": "dirección , ubicación",
+    "pregunta": "donde están ubicados",
+    "respuesta": "Los Gladiolos 455, Pueblo seco, San Ignacio. Horario de atencion de 8.30 a 13hrs y de 14:00 a 18:30 de lunes a viernes, si necesitas una visita a terreno fuera de ese horario pide que te contacten con un vendedor de terreno.",
+    "tags": [],
+    "url_referencia": null
+  },
+  {
+    "id": "precios",
+    "pregunta": "hacen precios",
+    "respuesta": "hacemos precios por proyectos completos, podemos proporcionar los paneles y el material de ferreteria para tu construcción a un muy buen precio, si eres constructor consulta por los precios especiales.",
+    "tags": [
+      "precios",
+      "precios especiales",
+      "precios a constructores"
+    ],
+    "url_referencia": null
+  },
+  {
+    "id": "planos",
+    "pregunta": "Puedes enviarme un plano de planta por favor?.",
+    "respuesta": "puedo enviarte un plano de la casa de 55 metros cuadrados, en este link puedes descargar los planos desde los archivos adjuntos",
+    "tags": [
+      "planos",
+      "planta",
+      "arquitectura",
+      "diseño"
+    ],
+    "url_referencia": "https://www.siptermo.cl/kit-casa-50-m2"
+  },
+  {
+    "id": "fotos",
+    "pregunta": "Tienes fotos de la instalación de los paneles de su proceso? De una casa de 50 mys2",
+    "respuesta": "puedo contactarte con ejecutivo para que te envie fotos reales o videos de una casa ya terminada",
+    "tags": [
+      "fotos",
+      "videos"
+    ],
+    "url_referencia": "https://www.siptermo.cl/kit-casa-50-m2"
+  },
+  {
+    "id": "piloto",
+    "pregunta": "Se podrá ver piloto de este modelo y de otro más pequeño .ojalá día sabado",
+    "respuesta": "si necesitas una visita fuera del horario de atención puedo contactarte con un ejecutivo de terreno.",
+    "tags": [
+      "visitas",
+      "piloto"
+    ],
+    "url_referencia": null
+  }
+]

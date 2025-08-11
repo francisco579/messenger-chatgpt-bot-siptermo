@@ -1,0 +1,23 @@
+[
+  {
+    "pregunta": "¿Qué servicios ofrece SIP TERMO HOME?",
+    "respuesta": "Fabricamos paneles SIP con certificación estructural, ofrecemos kits de autoconstrucción con aire acondicionado de regalo, cortes CNC, asesoría en cálculos térmicos y venta de materiales de construcción en nuestra ferretería en Los Gladiolos 455, Pueblo Seco, Ñuble.",
+    "tags": [
+      "servicios",
+      "paneles",
+      "kits",
+      "ferretería"
+    ],
+    "url_referencia": "https://www.siptermo.cl"
+  },
+  {
+    "pregunta": "¿Dónde están ubicados?",
+    "respuesta": "En Los Gladiolos 455, Pueblo Seco, Región de Ñuble, Chile.",
+    "tags": [
+      "ubicación",
+      "dirección",
+      "ferretería"
+    ],
+    "url_referencia": "https://www.siptermo.cl/contacto"
+  }
+]
